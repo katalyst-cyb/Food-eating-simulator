@@ -17,3 +17,6 @@ A first person game demo for SCNU 世界粮食日小程序设计比赛
   3.游戏脚本用C#编写，全部由自己完成
   4.以上资源均不存在版权问题
   
+完整的工程放在度盘了，比较大：
+  链接：https://pan.baidu.com/s/1ALo9LlJIfh8gVIKCPKF9fQ 
+  提取码：SCNU
