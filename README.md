@@ -15,7 +15,8 @@ A first person game demo for SCNU 世界粮食日小程序设计比赛
   1.场景模型来自Unity Asset Store的免费资源
   2.掉落物的模型由blender 2.8.3创建
   3.游戏脚本用C#编写，全部由自己完成
-  4.以上资源均不存在版权问题
+  4.引擎版本 Unity 2020.1.10 个人版
+  5.以上资源均不存在版权问题
   
 完整的工程放在度盘了，比较大：
   链接：https://pan.baidu.com/s/1ALo9LlJIfh8gVIKCPKF9fQ 
